@@ -25,7 +25,7 @@
 
         <meta-data
             android:name="xposedscope"
-            android:value="com.android.systemui"/>
+            android:value="android"/>
 
     </application>
 
