@@ -12,7 +12,7 @@ import de.robv.android.xposed.callbacks.XC_LoadPackage;
 import java.util.List;
 import java.util.ArrayList;
 
-public class TabletLandscapeModule implements IXposedHookLoadPackage {
+public class SystemServiceSpoofer implements IXposedHookLoadPackage {
 
     @Override
     public void handleLoadPackage(XC_LoadPackage.LoadPackageParam lpparam) {
