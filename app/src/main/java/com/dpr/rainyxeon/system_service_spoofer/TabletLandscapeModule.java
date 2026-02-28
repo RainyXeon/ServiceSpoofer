@@ -1,4 +1,4 @@
-package com.tablet.splitqs;
+package com.dpr.rainyxeon.system_service_spoofer;
 
 import android.content.res.Configuration;
 import android.content.res.Resources;
@@ -8,6 +8,9 @@ import de.robv.android.xposed.XC_MethodHook;
 import de.robv.android.xposed.XposedBridge;
 import de.robv.android.xposed.XposedHelpers;
 import de.robv.android.xposed.callbacks.XC_LoadPackage;
+
+import java.util.List;
+import java.util.ArrayList;
 
 public class TabletLandscapeModule implements IXposedHookLoadPackage {
 
