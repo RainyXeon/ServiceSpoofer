@@ -1,5 +1,5 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.tablet.splitqs"
+    package="com.dpr.rainyxeon.system_service_spoofer"
     android:versionCode="1"
     android:versionName="1.0">
 
@@ -8,7 +8,7 @@
         android:targetSdkVersion="34"/>
 
     <application
-        android:label="Tablet Split QS"
+        android:label="System Service Spoofer"
         android:hasCode="true">
 
         <meta-data
@@ -17,7 +17,7 @@
 
         <meta-data
             android:name="xposeddescription"
-            android:value="Tablet UI style split QS-notification panel in landscape mode."/>
+            android:value="Hiding some lineageos trace in system service"/>
 
         <meta-data
             android:name="xposedminversion"

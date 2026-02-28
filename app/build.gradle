@@ -3,11 +3,11 @@ plugins {
 }
 
 android {
-    namespace "com.tablet.splitqs"
+    namespace "com.dpr.rainyxeon.system_service_spoofer"
     compileSdk 34
 
     defaultConfig {
-        applicationId "com.tablet.splitqs"
+        applicationId "com.dpr.rainyxeon.system_service_spoofer"
         minSdk 21
         targetSdk 34
         versionCode 1
